@@ -1,0 +1,36 @@
+div.div1{
+    border: 2px solid red;
+    height: 290px;
+    width: 500px;
+
+    left: 40px;
+    right: 50px;
+    position: absolute;
+    background-color:azure;
+    text-align-last: center;
+    
+   
+}
+div.div2{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+   
+    position:absolute;
+    left: 30px;
+    right: 40px;
+    top: 50px;
+    text-align:initial;
+    }
+
+    div.div1:hover{
+        background-color: red;
+        transition: 2s;
+
+    }
+    div.div2:hover{
+        transition: 3s;
+        background-color: whitesmoke;
+      
+    }

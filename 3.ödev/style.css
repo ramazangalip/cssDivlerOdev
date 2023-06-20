@@ -1,0 +1,51 @@
+div.a{
+    border: 3px solid black;
+    background-color: red;
+    width: 300px;
+    height: 260px;
+    
+}
+
+div.b{
+    border: 3px solid black;
+    background-color: blue;
+    width: 300px;
+    height: 260px;
+
+}
+div.c{
+    border: 3px solid black;
+    background-color: burlywood;
+    width: 300px;
+    height: 260px;
+
+}
+div.d{
+    border: 3px solid black;
+    background-color: blueviolet;
+    width: 300px;
+    height: 260px;
+
+}
+
+div.a:hover{
+    transition: 3s;
+    transform: scale(1.1);
+    height: 300px;
+}
+div.b:hover{
+    transition: 3s;
+    transform: scale(1.1);
+    height: 300px;
+}
+div.c:hover{
+    transition: 3s;
+    transform: scale(1.1);
+    height: 300px;
+   
+}
+div.d:hover{
+    transition: 3s;
+    transform: scale(1.1);
+    height: 300px;
+}
